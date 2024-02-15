@@ -1,6 +1,6 @@
 body{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 13%;
+    margin-right: 13%;
 }
 
 .container{
@@ -10,7 +10,7 @@ body{
 }
 
 .container img{
-    width: 100%;
+    width: 110%;
     border-radius: 5px;
 }
 
